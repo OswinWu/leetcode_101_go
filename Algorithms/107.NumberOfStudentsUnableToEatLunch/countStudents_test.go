@@ -2,7 +2,7 @@ package countStudents
 
 import "testing"
 
-func Test_maxProfit(t *testing.T) {
+func Test_countStudents(t *testing.T) {
 	testCases := []struct {
 		students     []int
 		sandwiches   []int

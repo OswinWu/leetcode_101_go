@@ -2,7 +2,7 @@ package mySqrt
 
 import "testing"
 
-func Test_maxProfit(t *testing.T) {
+func Test_mySqrt(t *testing.T) {
 	testCases := []struct {
 		input        int
 		exceptResult int
