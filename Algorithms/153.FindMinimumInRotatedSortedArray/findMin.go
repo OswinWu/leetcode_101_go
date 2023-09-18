@@ -1,4 +1,4 @@
-package findminimuminrotatedsortedarrayii
+package findminimuminrotatedsortedarray
 
 func findMin(nums []int) int {
 	start := 0

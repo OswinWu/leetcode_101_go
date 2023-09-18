@@ -1,4 +1,4 @@
-package findminimuminrotatedsortedarrayii
+package findminimuminrotatedsortedarray
 
 import "testing"
 
